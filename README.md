@@ -1,4 +1,4 @@
-#Help with COVID
+# Help with COVID
 
 The project originates from **Help with COVID** request for volunteers: https://helpwithcovid.com/projects/385-identify-covid-19-coronavirus-symptoms-in-type-1-diabetics where volunteers comit time and resources free of charge to contribute to an open source project.
 If you have not signed up yet and want to contribute please add your profile at https://helpwithcovid.com/
