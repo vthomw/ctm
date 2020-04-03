@@ -34,7 +34,7 @@ design and build a continuous body temperature monitor (CTM)
 more info at: https://github.com/vthomw/ctm/wiki/what-is-it-we-are-going-to-build
 
 How do I get started?
-become familiar with the topic of CGM, NFC/RFID, App developemnt, ML for data analysis. Read what we post on Wiki. Browse Issues and let us know what you find interesting. Ask if you need info.
+become familiar with the topic of CGM, NFC/RFID, App developemnt, ML for data analysis. Read what we post on Wiki. Browse Issues and let us know what you find interesting. Ask if you need info. Another option is to read the beginners guide if you are new to GitHub: https://opensource.guide/starting-a-project/
 
 Where can I get more help, if I need it?
 We did open a SLACK channel for discussion. Please sign-up at https://helpwithcovid.com/projects/385-identify-covid-19-coronavirus-symptoms-in-type-1-diabetics and I'll add your email address to the slack channel.
