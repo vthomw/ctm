@@ -37,7 +37,7 @@ How do I get started?
 become familiar with the topic of CGM, NFC/RFID, App developemnt, ML for data analysis. Read what we post on Wiki. Browse Issues and let us know what you find interesting. Ask if you need info.
 
 Where can I get more help, if I need it?
-We will open a SLACK channel for discussion. 
+We did open a SLACK channel for discussion. Please sign-up at https://helpwithcovid.com/projects/385-identify-covid-19-coronavirus-symptoms-in-type-1-diabetics and I'll add your email address to the slack channel.
 
 # 15693
 What does this project do?
@@ -51,4 +51,4 @@ How do I get started?
 raise your hand and we will provide exsiting code, ISO documentation and some guidence. You can start reading about NFC, RFID, PROXCON, Android Studio automated testing
 
 Where can I get more help, if I need it?
-We will open a SLACK channel for discussion.
+We did open a SLACK channel for discussion. Please sign-up at https://helpwithcovid.com/projects/385-identify-covid-19-coronavirus-symptoms-in-type-1-diabetics and I'll add your email address to the slack channel.
