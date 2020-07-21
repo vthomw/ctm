@@ -1,3 +1,5 @@
+On July 1st 2020 the project branched into https://github.com/diafyt/lazarus
+
 # Help with COVID
 
 The project originates from **Help with COVID** request for volunteers: https://helpwithcovid.com where volunteers commit time and resources free of charge to contribute to an open source project.
